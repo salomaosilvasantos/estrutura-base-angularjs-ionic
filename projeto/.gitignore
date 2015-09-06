@@ -4,3 +4,10 @@
 node_modules/
 platforms/
 plugins/
+.sass-cache
+*.css.map
+.editorconfig
+.idea
+plugins
+hooks/
+assets/lib
